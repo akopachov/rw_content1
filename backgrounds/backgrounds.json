@@ -2646,5 +2646,77 @@
         "type": "youtube"
     },
     "Group": "VideoBackgroundGroup"
+  },
+  {
+    "_id": "103",
+    "Source": {
+      "1300": {
+        "webp": "{Resources}/backgrounds/103.webp",
+        "jpg": "{Resources}/backgrounds/103.jpg"
+      },
+      "768": {
+        "webp": "{Resources}/backgrounds/103-768.webp",
+        "jpg": "{Resources}/backgrounds/103-768.jpg"
+      }
+    },
+    "Thumb": {
+      "256": {
+        "webp": "{Resources}/backgrounds/103-256.webp",
+        "jpg": "{Resources}/backgrounds/103-256.jpg"
+      },
+      "128": {
+        "webp": "{Resources}/backgrounds/103-128.webp",
+        "jpg": "{Resources}/backgrounds/103-128.jpg"
+      }
+    },
+    "Group": "PlaceholderBackgroundGroup"
+  },
+  {
+    "_id": "104",
+    "Source": {
+      "1920": {
+        "webp": "{Resources}/backgrounds/104.webp",
+        "jpg": "{Resources}/backgrounds/104.jpg"
+      },
+      "768": {
+        "webp": "{Resources}/backgrounds/104-768.webp",
+        "jpg": "{Resources}/backgrounds/104-768.jpg"
+      }
+    },
+    "Thumb": {
+      "256": {
+        "webp": "{Resources}/backgrounds/104-256.webp",
+        "jpg": "{Resources}/backgrounds/104-256.jpg"
+      },
+      "128": {
+        "webp": "{Resources}/backgrounds/104-128.webp",
+        "jpg": "{Resources}/backgrounds/104-128.jpg"
+      }
+    },
+    "Group": "PlaceholderBackgroundGroup"
+  },
+  {
+    "_id": "105",
+    "Source": {
+      "1920": {
+        "webp": "{Resources}/backgrounds/105.webp",
+        "jpg": "{Resources}/backgrounds/105.jpg"
+      },
+      "768": {
+        "webp": "{Resources}/backgrounds/105-768.webp",
+        "jpg": "{Resources}/backgrounds/105-768.jpg"
+      }
+    },
+    "Thumb": {
+      "256": {
+        "webp": "{Resources}/backgrounds/105-256.webp",
+        "jpg": "{Resources}/backgrounds/105-256.jpg"
+      },
+      "128": {
+        "webp": "{Resources}/backgrounds/105-128.webp",
+        "jpg": "{Resources}/backgrounds/105-128.jpg"
+      }
+    },
+    "Group": "PlaceholderBackgroundGroup"
   }
 ]
